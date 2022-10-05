@@ -1,4 +1,4 @@
-# Project Ed
+# Project edTech
 This project should only contain project codes and documentations regarding Education sector.
 
 <img align="center" src="https://github.com/OyePradumya/Collection/blob/1366c0bd85b6d2a9f38c19998bfe4ae961581bb1/hacktoberfest-2022.png">
